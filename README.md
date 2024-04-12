@@ -5,4 +5,6 @@
 -   Branch
 -   Conflict 해결방법 + Merge
 
--   으악! 기달려봐
+-   1. Fork
+-   2. remote
+-   3. pull request
